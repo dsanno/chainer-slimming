@@ -1,0 +1,4 @@
+*.pyc
+model/*
+!model/.gitkeep
+!model/base.json
